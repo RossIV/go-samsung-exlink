@@ -20,7 +20,7 @@ const (
 
 // serial port parameters for EX-Link devices
 const (
-	baudRate    = 9600
+	baudRate    = 115200
 	dataBits    = 8
 	stopBits    = 1
 	minReadSize = 4
